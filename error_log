@@ -23,3 +23,19 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home3/shaon/public_html/ML/index.php on line 14
+[25-Jul-2018 09:11:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/shaon/public_html/ML/index.php on line 18
+[25-Jul-2018 09:15:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'CsvDataset' not found in /home3/shaon/public_html/ML/Reading_CSV_File.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 2
+[25-Jul-2018 09:16:04 America/Chicago] PHP Warning:  include(/home3/shaon/public_html/MLinit.php): failed to open stream: No such file or directory in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 2
+[25-Jul-2018 09:16:04 America/Chicago] PHP Warning:  include(/home3/shaon/public_html/MLinit.php): failed to open stream: No such file or directory in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 2
+[25-Jul-2018 09:16:04 America/Chicago] PHP Warning:  include(): Failed opening '/home3/shaon/public_html/MLinit.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 2
+[25-Jul-2018 09:16:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'CsvDataset' not found in /home3/shaon/public_html/ML/Reading_CSV_File.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 3
+[25-Jul-2018 09:17:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 3
+[25-Jul-2018 09:25:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 12
+[25-Jul-2018 09:25:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 12
+[25-Jul-2018 09:25:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/shaon/public_html/ML/Reading_CSV_File.php on line 12
