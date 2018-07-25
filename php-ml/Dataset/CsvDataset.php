@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Phpml\Dataset;
+//namespace Phpml\Dataset;
 
 use Phpml\Exception\FileException;
 

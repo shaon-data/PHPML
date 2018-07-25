@@ -1,0 +1,25 @@
+[25-Jul-2018 08:31:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'CsvDataset' not found in /home3/shaon/public_html/ML/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/shaon/public_html/ML/index.php on line 10
+[25-Jul-2018 08:32:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'CsvDataset' not found in /home3/shaon/public_html/ML/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/shaon/public_html/ML/index.php on line 10
+[25-Jul-2018 08:33:03 America/Chicago] PHP Fatal error:  Class 'ArrayDataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/CsvDataset.php on line 9
+[25-Jul-2018 08:33:05 America/Chicago] PHP Fatal error:  Class 'ArrayDataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/CsvDataset.php on line 9
+[25-Jul-2018 08:33:59 America/Chicago] PHP Fatal error:  Class 'ArrayDataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/CsvDataset.php on line 9
+[25-Jul-2018 08:35:49 America/Chicago] PHP Fatal error:  Class 'ArrayDataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/CsvDataset.php on line 9
+[25-Jul-2018 08:36:01 America/Chicago] PHP Fatal error:  Class 'ArrayDataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/CsvDataset.php on line 9
+[25-Jul-2018 08:36:18 America/Chicago] PHP Fatal error:  Interface 'Dataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/ArrayDataset.php on line 9
+[25-Jul-2018 08:36:57 America/Chicago] PHP Fatal error:  Interface 'Dataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/ArrayDataset.php on line 9
+[25-Jul-2018 08:37:34 America/Chicago] PHP Fatal error:  Class 'ArrayDataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/CsvDataset.php on line 9
+[25-Jul-2018 08:40:31 America/Chicago] PHP Fatal error:  Class 'ArrayDataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/CsvDataset.php on line 9
+[25-Jul-2018 08:41:07 America/Chicago] PHP Fatal error:  Interface 'Dataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/ArrayDataset.php on line 9
+[25-Jul-2018 08:41:27 America/Chicago] PHP Fatal error:  Class 'ArrayDataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/CsvDataset.php on line 9
+[25-Jul-2018 08:42:27 America/Chicago] PHP Fatal error:  Interface 'Dataset' not found in /home3/shaon/public_html/ML/php-ml/Dataset/ArrayDataset.php on line 9
+[25-Jul-2018 08:43:11 America/Chicago] PHP Recoverable fatal error:  Object of class CsvDataset could not be converted to string in /home3/shaon/public_html/ML/index.php on line 14
+[25-Jul-2018 08:43:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getColumnNames() in /home3/shaon/public_html/ML/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/shaon/public_html/ML/index.php on line 14
