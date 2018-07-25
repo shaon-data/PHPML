@@ -1,8 +1,8 @@
 # PHPML 
 ## Contributions
-Modfied the code:
-Where Composer not work because of system defualt php version
-
+The code installable only by copying.
+No need of composer, just set up the script for php => 7.1
+DataFrame Manipulation
 ## Download
 
 ## Requirement
